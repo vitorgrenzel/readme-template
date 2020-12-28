@@ -41,17 +41,12 @@
 
 - <p style="color: red;">Brief explanation about the project</p>
 
-To see the **api**, click here: [PROJECT_NAME Rest API](https://github/eliasgcf/readme-template)</br>
-To see the **web client**, click here: [PROJECT_NAME Web](https://github/eliasgcf/readme-template)
+To see the **api**, click here: [PROJECT_NAME Rest API](https://github/vitorgrenzel/readme-template)</br>
+To see the **web client**, click here: [PROJECT_NAME Web](https://github/vitorgrenzel/readme-template)
 
 ## ✨ Features
 
-- 🌈 Enterprise-class UI designed for web applications.
-- 📦 A set of high-quality React components out of the box.
-- 🛡 Written in TypeScript with predictable static types.
-- ⚙️ Whole package of design resources and development tools.
-- 🌍 Internationalization support for dozens of languages.
-- 🎨 Powerful theme customization in every detail.
+- 📦 List of the features
 
 ## 🚀 Technologies
 
